@@ -20,12 +20,12 @@ This is the script's loadstring.
 
 This is how to add your very own scripts to the GUI. (It comes with 4 default scripts)
 * Example
-```sh
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Saint0-0/Saint-X-Utility-GUI/main/Source.lua"))()
   
 AddScript(<String> Script Name, <String> Script Description, <String> Script Creator, <Number> Script Image, <String> Script Link)
 ```
  * Another Example
- ```sh
+ ```lua
  AddScript("Infinite Yield", "The best command line script for Roblox.", "Edge", 2546999523, "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")
  ```
