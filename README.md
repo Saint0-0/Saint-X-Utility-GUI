@@ -1,5 +1,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
+# Preview
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Launching the script.
 
