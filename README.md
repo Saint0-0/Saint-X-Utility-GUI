@@ -4,7 +4,7 @@
 
 ![alt text](https://cdn.discordapp.com/attachments/997291402058801283/1018349210413830186/Screenshot_2022-09-11_053457.png)
 
-##Launching the script.
+## Launching the script.
 
 ### Loadstring
 
