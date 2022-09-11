@@ -1,5 +1,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
+
+This GUI enables users to create their very own miniature script hubs efficiently.
+
 ### Preview
 
 ![alt text](https://cdn.discordapp.com/attachments/997291402058801283/1018349210413830186/Screenshot_2022-09-11_053457.png)
