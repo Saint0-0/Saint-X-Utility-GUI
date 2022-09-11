@@ -12,7 +12,7 @@ This GUI enables users to create their very own miniature script hubs efficientl
 ### Loadstring
 
 This is the script's loadstring.
-  ```sh
+  ```lua
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Saint0-0/Saint-X-Utility-GUI/main/Source.lua"))()
   ```
 
